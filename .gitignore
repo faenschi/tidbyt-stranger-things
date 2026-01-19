@@ -1,0 +1,12 @@
+# Generated files
+*.webp
+*.gif
+
+# Push script contains API token
+push-stranger-things.sh
+
+# macOS
+.DS_Store
+
+# IDE
+.idea/
